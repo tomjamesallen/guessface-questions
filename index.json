@@ -1,0 +1,64 @@
+[
+  {
+    "title" : "Double Acts",
+    "description": "Identify the double act.",
+    "questions" : [
+      "DoubleActs/Ant-and-Dec",
+      "DoubleActs/French-and-Saunders",
+      "DoubleActs/Lennon-and-McCartney",
+      "DoubleActs/Fry-and-Laurey",
+      "DoubleActs/Mitchell-and-Webb",
+      "DoubleActs/Torvill-and-Dean",
+      "DoubleActs/Vic-and-Bob",
+      "DoubleActs/Simon-and-Garfunkel",
+      "DoubleActs/Wallace-and-Gromit",
+      "DoubleActs/The-Two-Ronnies",
+      "DoubleActs/Mel-and-Sue"
+    ],
+    "example" : "DoubleActs/Armstrong-and-Miller"
+  },
+  {
+    "title" : "Film + face",
+    "description": "Each film title has been altered to include the name of a famous face. Guess the title.",
+    "questions" : [
+      "FilmFace/Butch David Cassidy and the Sun Dance Kid",
+      "FilmFace/The Silence of the Larry Lambs",
+      "FilmFace/The Lord of the Rings The Return of the Carole King",
+      "FilmFace/You've got Rik Mayall",
+      "FilmFace/There's something about Mary Berry"
+    ],
+    "example" : "FilmFace/A New Bob Hope"
+  },
+  {
+    "title" : "Name Chain",
+    "description": "Find the connection in the names.",
+    "questions" : [
+      "NameChain/GeorgeHarrisonFord",
+      "NameChain/BradPitBullTerrier",
+      "NameChain/GingerRogerMoore",
+      "NameChain/BruceLeeEvans",
+      "NameChain/FionaBruceWillis",
+      "NameChain/ChrisMartinFreeman",
+      "NameChain/JuliaRobertRedford",
+      "NameChain/DanielCraigDavid",
+      "NameChain/DeanMartinSheen",
+      "NameChain/DianaRossKemp",
+      "NameChain/EltonJohnBishop",
+      "NameChain/FiremanSamCooke",
+      "NameChain/PaulSimonPegg",
+      "NameChain/WoodyAlanRickman",
+      "NameChain/GeneKellyHolmes",
+      "NameChain/HughDennisWaterman",
+      "NameChain/JimCaryGrant",
+      "NameChain/JulieWalterMatthau",
+      "NameChain/KenBruceForsyth",
+      "NameChain/RodStewartLittle",
+      "NameChain/PenelopeKeithRichards",
+      "NameChain/PostmanPatrickSwayze",
+      "NameChain/RobertDeNero",
+      "NameChain/SidOwenWilson",
+      "NameChain/WillIamsCat"
+    ],
+    "example" : "NameChain/WoodyAlanRickman"
+  }
+]
